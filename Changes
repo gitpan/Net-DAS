@@ -1,0 +1,37 @@
+0.11 : Mon 27 Jul 2015
+    -  Some code cleanup
+
+0.10 : Thu 25 Jul 2015
+    -  Added POD Data
+
+0.09 : Thu 25 Jul 2015
+    - /bin/das with parameters
+
+0.08 : Thu 25 Jul 2015
+    - SIG ALARM Timout for each query
+
+0.07 : Thu 25 Jul 2015
+    - Batch mode
+
+0.06 : Thu 25 Jul 2015
+    - Got all the tests working
+    - Fixed UK unit
+
+0.05 : Thu 25 Jul 2015
+    - Some minor work on testing
+
+0.04 : Wed 24 Jul 2013
+    - Added NO Unit
+    - Added (but not yet working) UK Unit
+    - Added shell script (needs work)
+    - Some more improvements
+
+0.03 : Wed 24 Jul 2013
+    - Added BE/LT/IT/IS Units
+    - Improvements as a while
+
+0.02 : Wed 24 Jul 2013
+    - Added EU Unit
+
+0.01 : Wed 24 Jul 2013
+    - First build, basic framework
