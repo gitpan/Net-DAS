@@ -4,6 +4,14 @@ Changes
 README
 LICENSE
 t/000-load.t
+t/100_das.t
+t/101_eu.t
+t/102_be.t
+t/103_lt.t
+t/104_it.t
+t/105_si.t
+t/106_no.t
+t/107_uk.t
 bin/das
 lib/Net/DAS.pm
 lib/Net/DAS/BE.pm
