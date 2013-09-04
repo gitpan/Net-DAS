@@ -19,7 +19,7 @@ sub register {
 
 =head1 NAME
 
-Net::DAS::IT - A simple DAS (Domain Availabilty Seach) client, IT extension.
+Net::DAS::IT - Net::DAS .IT extension.
 
 See L<Net::DAS>
 

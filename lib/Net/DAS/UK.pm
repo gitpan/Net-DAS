@@ -37,7 +37,7 @@ sub parse {
 
 =head1 NAME
 
-Net::DAS::UK - A simple DAS (Domain Availabilty Seach) client, UK extension.
+Net::DAS::UK - Net::DAS .UK extension.
 
 See L<Net::DAS>
 

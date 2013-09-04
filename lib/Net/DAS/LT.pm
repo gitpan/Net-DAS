@@ -32,7 +32,7 @@ sub parse {
 
 =head1 NAME
 
-Net::DAS::LT - A simple DAS (Domain Availabilty Seach) client, LT extension.
+Net::DAS::LT - Net::DAS .LT extension.
 
 See L<Net::DAS>
 

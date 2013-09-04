@@ -28,7 +28,7 @@ sub parse {
 
 =head1 NAME
 
-Net::DAS::SI - A simple DAS (Domain Availabilty Seach) client, SI extension.
+Net::DAS::SI - Net::DAS .SI extension.
 
 See L<Net::DAS>
 

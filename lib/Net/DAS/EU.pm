@@ -30,7 +30,7 @@ sub query {
 
 =head1 NAME
 
-Net::DAS::EU - A simple DAS (Domain Availabilty Seach) client, EU extension.
+Net::DAS::EU - Net::DAS .EU extension.
 
 See L<Net::DAS>
 

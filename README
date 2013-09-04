@@ -2,11 +2,18 @@ Net::DAS
 By: Michael Holloway <michael@thedarkwinter.com>
 
 
+
 ============
 DESCRIPTION
 ============
 
 Simple DAS (Domain Availability Service) Client for Perl
+
+============
+TODO
+============
+* .RO Appears to have a DAS server, but cant find it: http://rotld.ro/engleza/index_en.html
+
 
 
 ============

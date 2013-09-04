@@ -4,7 +4,7 @@ package Net::DAS;
 
 =head1 NAME
 
-Net::DAS - A simple DAS (Domain Availabilty Seach) client.
+Net::DAS - Simple Domain Availabilty Seach client.
 
 =head1 SYNOPSIS
 
@@ -41,7 +41,7 @@ use Module::Load;
 use IO::Socket::INET;
 use Time::HiRes qw (usleep);
 
-our $VERSION = '0.12';
+our $VERSION = '0.13';
 our @modules = qw (EU BE NO LT UK SI IT);
 
 =pod
