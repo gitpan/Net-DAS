@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-use Test::More tests => 12;
+use Test::More tests => 13;
 
 BEGIN {
     use_ok('Module::Load');
@@ -15,6 +15,7 @@ BEGIN {
     use_ok('Net::DAS::UK');
     use_ok('Net::DAS::SI');
     use_ok('Net::DAS::IT');
+    use_ok('Net::DAS::GENT');
 }
 
 exit 0;

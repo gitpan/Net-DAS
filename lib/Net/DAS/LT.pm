@@ -16,15 +16,14 @@ sub register {
 
 sub query { 
 	my $d = shift;
-	$d =~ s/.eu.*$//;
 	return "get 1.0 " . $d; 
 }
 
 sub parse {
 	chomp (my $i = uc(shift));
-    return 1 if $i =~ m/.*STATUS:\sAVAILABLE/;
-    return 0 if $i =~ m/.*STATUS:\sREGISTERED/;
-    return (-100) ;
+  return 1 if $i =~ m/.*STATUS:\sAVAILABLE/;
+  return 0 if $i =~ m/.*STATUS:\sREGISTERED/;
+  return (-100) ;
 }
 
 1;

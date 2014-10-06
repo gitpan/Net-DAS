@@ -22,7 +22,7 @@ sub register {
 }
 
 sub parse {
-    chomp (my $i = uc(shift));
+  chomp (my $i = uc(shift));
 	return (-2) if $i =~ m/IP ADDRESS (.*) NOT REGISTERED/;
 	$i =~ m/^([\w.]*),(\w)(,.*)?/;
 	return 1 if $2 eq 'N';

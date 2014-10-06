@@ -19,7 +19,7 @@ sub parse {
 	return 1 if uc($i) =~ m/IS AVAILABLE/;
 	return 0 if uc($i) =~ m/IS REGISTERED/;
 	return -1 if uc($i) =~ m/IS FORBIDDEN/;
-    return (-100) ;
+  return (-100) ;
 }
 
 1;

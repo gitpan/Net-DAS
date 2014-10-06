@@ -18,7 +18,7 @@ sub parse {
 	chomp (my $i = uc(shift));
 	return 1 if uc($i) =~ m/IS AVAILABLE/;
 	return 0 if uc($i) =~ m/IS DELEGATED/;
-    return (-100) ; # failed to determine/parse
+  return (-100) ; # failed to determine/parse
 }
 
 1;
